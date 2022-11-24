@@ -1,3 +1,3 @@
-div[class*="widget-container"]
+telex.hu##DIV[class*="widget-container"]
 
-div[id=*"minutes-campaign-container"]
+telex.hu##DIV[id=*"minutes-campaign-container"]
