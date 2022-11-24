@@ -1,1 +1,1 @@
-div[class="banners"]
+telex.hu##[class="birthday-widget"]
