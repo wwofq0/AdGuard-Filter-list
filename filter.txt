@@ -1,1 +1,5 @@
-div[class$="html-preview-text"]
+div[class="widget-container"]
+div[class$="widget-container"]
+
+div[id="minutes-campaign-container"]
+div[id$="minutes-campaign-container"]
