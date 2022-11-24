@@ -1,1 +1,1 @@
-##[class="birthday-widget"]
+div[class="banners"]
