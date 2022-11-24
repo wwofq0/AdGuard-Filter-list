@@ -1,2 +1,1 @@
-telex.hu##[class$="birthday-widget"]
-[class$="birthday-widget"]
+div[class$="html-preview-text"]
