@@ -1,2 +1,2 @@
 telex.hu##[class$="birthday-widget"]
-
+[class$="birthday-widget"]
