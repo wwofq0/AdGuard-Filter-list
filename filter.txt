@@ -1,4 +1,2 @@
-telex.hu##[class="birthday-widget"]
+telex.hu##[class$="birthday-widget"]
 
-
-444.hu##[class*="xmas"]
